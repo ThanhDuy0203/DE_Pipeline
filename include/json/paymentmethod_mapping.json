@@ -1,0 +1,21 @@
+{
+    "mapping": [
+      {
+        "source": "PAYMENTMETHODID",
+        "target": "PAYMENTMETHODID"
+      },
+      {
+        "source": "PAYMENTMETHODNAME",
+        "target": "PAYMENTMETHODNAME"
+      },
+      {
+        "source": "VALIDFROM",
+        "target": "VALIDFROM"
+      },
+      {
+        "source": "VALIDTO",
+        "target": "VALIDTO"
+      }
+    ]
+}
+  
