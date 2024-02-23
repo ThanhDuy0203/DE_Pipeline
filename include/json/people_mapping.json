@@ -1,0 +1,37 @@
+{
+    "mapping": [
+      {
+        "source": "FULLNAME",
+        "target": "FULLNAME"
+      },
+      {
+        "source": "ISEMPLOYEE",
+        "target": "ISEMPLOYEE"
+      },
+      {
+        "source": "ISSALESPERSON",
+        "target": "ISSALESPERSON"
+      },
+      {
+        "source": "PERSONID",
+        "target": "PERSONID"
+      },
+      {
+        "source": "PHOTO",
+        "target": "PHOTO"
+      },
+      {
+        "source": "PREFERREDNAME",
+        "target": "PREFERREDNAME"
+      },
+      {
+        "source": "VALIDFROM",
+        "target": "VALIDFROM"
+      },
+      {
+        "source": "VALIDTO",
+        "target": "VALIDTO"
+      }
+    ]
+}
+  
