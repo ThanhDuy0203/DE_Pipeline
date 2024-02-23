@@ -20,8 +20,8 @@ MSSQL_CONN_ID = Variable.get("SOURCE_MSSQL_CONN_ID")
 SQL_PATH_FILE = './include/sql/'
 CSV_PATH_FILE = './include/temp/'
 
-table_source = "purchasing.suppliers"
-query_file_name = "suppliers_query.sql"
+table_source = "Warehouse.StockItems"
+query_file_name = "stockitems_query.sql"
 
 blob_handler = BlobStorageHandler(AZURE_CONN_ID, SQL_PATH_FILE, CSV_PATH_FILE)
 sql_handler = SqlFileHandler(SQL_PATH_FILE)
